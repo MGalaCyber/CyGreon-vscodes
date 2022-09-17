@@ -1,0 +1,37 @@
+{
+  "name": "cygrenon",
+  "displayName": "Night Cyber Grenon",
+  "description": "VS Code Night Cyber Green Neon Theme",
+  "version": "0.0.1",
+  "publisher": "MGalaCyber",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MGalaCyber/CyGreon-vscode"
+  },
+  "keywords": [
+    "theme",
+    "grenon",
+    "cyberneon",
+    "green",
+    "night cyber green neon",
+    "dark theme",
+    "cyber",
+    "night",
+    "neon"
+  ],
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "CyGreon Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/CyGreon Theme-color-theme.json"
+      }
+    ]
+  }
+}
