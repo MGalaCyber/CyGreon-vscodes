@@ -1,8 +1,8 @@
 <p align="center">
-  <img alt="Halcyon Logo" src="https://raw.githubusercontent.com/MGalaCyber/CyGreon-vscode/master/images/logo2.gif" width="100" />
+  <img alt="CyGreon Logo" src="https://raw.githubusercontent.com/MGalaCyber/CyGreon-vscodes/master/images/Logo2.gif" width="200" />
 </p>
 <h1 align="center">
-  Halcyon Theme for VS Code
+  CyGreon Theme for VS Code
 </h1>
 <p align="center">
   A minimal, dark green theme
@@ -19,7 +19,7 @@
   </a>
 </p>
 
-![demo](https://raw.githubusercontent.com/bchiang7/halcyon-vscode/master/images/demo.png)
+![demo](https://raw.githubusercontent.com/MGalaCyber/CyGreon-vscodes/master/images/Logo1.png)
 
 ## Installation via VS Code
 
@@ -29,19 +29,9 @@
 4. Click **Reload** to reload the editor
 5. Code > Preferences > Color Theme > **CyGreon Theme**
 
-## Manual Installation
-
-Read the [VSC Extension Quickstart Guide](https://github.com/bchiang7/halcyon-vscode/blob/master/vsc-extension-quickstart.md)
-
 ## Icon Theme
 
 The file icon theme seen in the screenshot above is [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) with these settings:
-
-```json
-  "material-icon-theme.folders.color": "#8695b7",
-  "material-icon-theme.folders.theme": "specific",
-  "material-icon-theme.hidesExplorerArrows": true,
-```
 
 ## Theming Reference
 
